@@ -1,6 +1,6 @@
 {
   "name": "validatajs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A versatile JavaScript library for seamless and reliable data validation.",
   "main": "index.js",
   "scripts": {
